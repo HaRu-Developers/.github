@@ -1,14 +1,53 @@
-## Hi there 👋
+## 소규모 팀을 위한 All-In-One 운영 관리 플랫폼, HaRu.
 
-UMC 8th Ain 지부 (중앙대학교, 숭실대학교, 가천대학교, 명지대학교, 한양대학교 ERICA) 사이드 프로젝트의 일환입니다.
+---
 
-<!--
+회의 진행 보조, SNS 이벤트 진행 관리, 팀 분위기 체크까지 한 번에!
+HaRu는 모든 팀이 더 가치 있는 순간에 집중할 수 있도록 돕습니다.
 
-**Here are some ideas to get you started:**
+### **💡 Our Mission**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+조금 더 효율적으로 팀을 운영할 수는 없을까?
+
+HaRu는 보다 효율적인 팀 운영을 위한 고민에서 시작됐습니다.
+
+우리는 각자의 자리에서 치열하게 움직이는 소규모 팀들의 하루를 돕고자 합니다.
+
+### **💖 Brand Identity**
+
+Logo
+
+HaRu의 로고는 함께할 때 더 빛나는 팀의 모습을 담고 있습니다.
+각 분홍빛 물방울은 서로 다른 개성과 역할을 가진 팀원을 나타내며,
+
+이들이 모여 하나의 아름다운 다이아몬드가 완성됩니다.
+
+Primary Color
+
+HaRu의 메인 컬러인 #E65787은 따뜻함과 유대감을 상징합니다. 분홍빛이 전하는 온기는 팀원 간의 신뢰와 배려를, 선명한 채도는 함께 나아가는 에너지와 열정을 표현합니다. HaRu는 각자의 자리에서 치열하게 움직이는 모든 소규모 팀의 여정을 따뜻하게 응원합니다.
+
+Meaning
+
+Human Resource: HaRu는 가장 효율적인 인적 자원 관리를 지향합니다.
+
+Assist / Automate / Authentic: HaRu는 사람을 돕고, 업무를 자동화하며, 정확하고 투명한 운영을 보장합니다.
+
+User-Friendly: HaRu는 모두가 부담 없이 사용할 수 있는 사용자 친화적인 서비스를 제공합니다.
+
+### **📌 Key Features**
+
+1. AI 회의 진행 매니저: #실시간 STT 변환 #실시간 HaRu AI 질문 추천 #회의록 자동 생성
+2. SNS 이벤트 어시스턴트: #Instagram 계정 연동 #이벤트 참여자 및 당첨자 리스트 추출
+3. 팀 분위기 트래커: #설문지 작성 #팀 분위기 리포트 생성 #HaRu 인사이트 제공
+
+### **🫂 Team HaRu**
+
+당신의 하루를 위해, 팀 HaRu가 모였습니다.
+
+Plan: 황지원
+
+Design: 이수호
+
+FrontEnd: 김여진, 손기훈, 박수현, 박경운
+
+BackEnd: 임동재, 김진호, 이석주, 이호근
